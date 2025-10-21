@@ -8,7 +8,7 @@
 
 ## Datasets
 
-<https://pan.baidu.com/s/1b7MP8-L2eWYcbsoNTP2qIQ?pwd=979c> (fetch code: 979c)
+<https://pan.baidu.com/s/1oFJmarUSuLI4hB5obEOtOw?pwd=assy> (fetch code: assy)
 
 ## Predicted Saliency Map
 
