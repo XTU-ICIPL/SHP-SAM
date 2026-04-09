@@ -10,12 +10,6 @@
 
 <https://pan.baidu.com/s/1oFJmarUSuLI4hB5obEOtOw?pwd=assy> (fetch code: assy)
 
-## Predicted Saliency Map
-
-we provide the predicted saliency maps datasets DUTS-TE, DUT-OMRON, HKU-IS, ECSSD and PASCAL-S
-
-<https://pan.baidu.com/s/1b7MP8-L2eWYcbsoNTP2qIQ?pwd=979c> (fetch code: 979c)
-
 ## Evaluation Code
 
 we use the evaluation code below to generate results:
