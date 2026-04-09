@@ -4,7 +4,7 @@
 
 ## Overview
 
-![SHP-SAM Framework](./figures/framework.png)
+![SHP-SAM Framework](framework.png)
 
 ## Datasets
 
